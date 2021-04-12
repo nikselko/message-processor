@@ -1,0 +1,22 @@
+324 temperature_sensor SET ON
+324 temperature_sensor SET UNIT C
+87534 heater SET ON
+756997 humidity_sensor MEASURE
+434 humidity_sensor SET ON
+756997 humidity_sensor MEASURE
+434 humidity_sensor MEASURE
+324 temperature_sensor MEASURE
+9763 air_purifier SET MODE PURIFY
+9763 air_purifier SET TARGET PM25 064
+434 humidity_sensor SET OFF
+9763 air_purifier MEASURE PM25
+756997 humidity_sensor MEASURE
+9763 air_purifier SET MODE HUMIDIFY
+87534 heater SELFTEST START
+87534 heater SELFTEST READY
+756997 humidity_sensor MEASURE
+87534 heater SELFTEST READY
+87534 heater SELFTEST READY
+87534 heater SELFTEST RESULTS
+87534 heater SET OFF
+324 temperature_sensor SET OFF
