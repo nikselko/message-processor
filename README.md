@@ -1,7 +1,6 @@
-# Message Processor
+# Message-Processor
 
 ## Usage:
-Can be used to operate, orginize and display messages for specific devices. Variable inputs availble (manual|file).
+Can be used to operate, organize, and display messages for specific purposes on a PC. Variable inputs are available (console input / file).
 
-## Programmer: 
-Nikita Seliverstov (nikselko)
+#### CODE IS UNDER MIT LICENSE
